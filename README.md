@@ -1,0 +1,2 @@
+# lucky
+exe 7
